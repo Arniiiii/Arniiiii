@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## who am i
 just a guy from Ukraine that knows some C++, Python and CMake.
 
-## my public activity:
+## my public activity
 1. Helping some random guys at C++ and Gentoo discord channels
 2. Reporting bugs to [bugs.gentoo.org](https://bugs.gentoo.org/buglist.cgi?email2=lg3dx6fd%40gmail.com&emailassigned_to2=1&emailcc2=1&emaillongdesc2=1&emailreporter2=1&emailtype2=substring&list_id=7275394&order=changeddate%20DESC%2Cpriority%2Cbug_severity&query_format=advanced&resolution=---)
 3. Making some projects easy to add and use with CMake via `add_subdirectory` or [CPM](https://github.com/cpm-cmake/CPM.cmake) ([+] - separate project, [-] - not merged upstream, [x] - merged, [ ] failed for a reason) :
