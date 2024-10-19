@@ -27,7 +27,7 @@ just a guy from Ukraine that knows some C++, Python and CMake.
     - [+] [simdjson](https://github.com/Arniiiii/simdjson_use_release) . I've made a simple script to ensure that you are using simdjson how it is expected by simdjson's developers. No finding local simdjson though.
     - [-] [csv-parser](https://github.com/Arniiiii/csv-parser) . It's installable now.
     - [x] [boost/ut](https://github.com/Arniiiii/ut_cmake_fix).  Fixed some issues with cmake and gh workflows
-    - [ ] [constexpr-to-string](https://github.com/Arniiiii/constexpr-to-string-cmake). It's usable now. Not merged since someone dislike CMake's configure-time dependencies.
+    - [ ] [constexpr-to-string](https://github.com/Arniiiii/constexpr-to-string-cmake). It's usable now. Not merged since someone dislikes CMake's configure-time dependencies.
     - [ ] [fast_io](https://github.com/Arniiiii/fast_io_cmake_cpm) . I've tried to make a pull request with this and they discouraged that. :( . Though, around 30% of tests, examples, benchmarks and fuzzers are incompilable since the developers don't care about those ...
     - [-] [libWRP](https://github.com/Arniiiii/libWRP-key-cmaked-n-updated) . It's a library that allows emulating keyboard output on Windows, Linux and MacOS.
     - [x] [magic_enum](https://github.com/Arniiiii/magic_enum_cmake_fix) . Fixed installing and some other problems
