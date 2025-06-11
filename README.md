@@ -26,5 +26,4 @@ Just a guy from Ukraine that knows some C++, Python and CMake.
 5. Making some mediocre projects either for:
     - [x] university
     - [x] as a test "job" for a job
-6. Customizing my [neovim config](https://github.com/Arniiiii/Nvchad_config_cpp)
 
