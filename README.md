@@ -6,7 +6,7 @@ Someone who knows C++, Python, CMake, Rust and some related things.
 
 1. My projects.
    - [`ytto`](https://github.com/Arniiiii/ytto). Make YouTube text-first.
-   - [`pedal`](https://github.com/Arniiiii/pedal). Using pedals from a steering wheel gaming set for sending keyboard keys on Linux.
+   - [`pedal`](https://github.com/Arniiiii/pedal). Using pedals from a steering wheel gaming set for sending keyboard key presses on Linux.
 1. Writing recipes aka *ebuilds* for Portage, Gentoo Linux's package manager.
    - [`::ex_repo`](https://github.com/Arniiiii/ex_repo). My recipes.
    - Contributions to [`::gentoo`](https://github.com/gentoo/gentoo), [`::stephanpalaru`](https://github.com/stefantalpalaru/gentoo-overlay), [`::mrpenguin`](https://github.com/MrPenguin07/ebuilds)
