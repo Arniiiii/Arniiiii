@@ -13,7 +13,6 @@ Someone who knows C++, Python, CMake, Rust and some related things.
 1. Making some CMake-based projects easy to add, find, use and install correctly. Sometimes fix CI.
    - A lot of projects, any C++/CMake forked project in my repos is that. However, I deleted some of my forks...
    - Some of them are related to CPM, a ~~package manager~~ tool for bundling dependencies in CMake. I used to believe that using it gives a lot of customization options for including other CMake projects. While it is true that it gives full control, it's futile. I became disappointed: it simply does not work for any projects with 3+ dependencies on multiple OSes. From now, I try using [`conan`](https://conan.io/) package manager or Gentoo's package manager.
-1. Sending bug reports to random projects that I somehow use.
 1. Job related open-sourced.
    - [`strata-p2p`](https://github.com/alpenlabs/strata-p2p). I was one of the main developer of it, a lot of design decisions, Rust code and thinking about decentralized networks.
    - Some projects related to:
@@ -21,7 +20,7 @@ Someone who knows C++, Python, CMake, Rust and some related things.
      - HSM
 1. Experiments.
    - [`smileinput`](https://github.com/Arniiiii/smileinput). Press any key with your smile
-1. Random contributions in projects I use.
+1. Random contributions and bug reports for some projects I use.
 1. Some old uni labs. Most of them from my 4th or 5th year of uni. I finished Bachelor's of Applied Mathematics, then tried to study at Data Science specialty, but left it.
 
 ## How my real life looks like
