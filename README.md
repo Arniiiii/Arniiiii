@@ -22,6 +22,11 @@ Someone who knows C++, Python, CMake, Rust and some related things.
    - [`smileinput`](https://github.com/Arniiiii/smileinput). Press any key with your smile
 1. Random contributions and bug reports for some projects I use.
 1. Some old uni labs. Most of them from my 4th or 5th year of uni. I finished Bachelor's of Applied Mathematics, then tried to study at Data Science specialty, but left it.
+1. Some old projects for internships.
+    - [`Genesis`](https://github.com/Arniiiii/Genesis_ac_python_2022_08-2022_10). A project that receives ticker price from crypto exchanges i.e. Binance and sends it to an email via Google's API for Gmail. Python OOP, async, FastAPI.
+    - [CHI software](https://github.com/Arniiiii/CHI-academy_cpp). Some simple labs in C++.
+    - For my current company, Distributed Labs, which is recently acquired by Blockstream, I don't have a project, since basically my task was to learn Rust. I learned it in two weeks.
+
 
 ## How my real life looks like
 
