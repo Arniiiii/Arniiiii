@@ -34,7 +34,7 @@ I get up, drink water and eat a banana or two. Then I cook or warm up some food.
 
 If it is a weekday, I work remotely at my current job as a Rust developer until lunch.
 
-At lunch I listen to New York Times The Daily podcast or something from BBC.
+At lunch I listen to The New York Times The Daily podcast or something from BBC.
 
 Then work again so that I work at most 8 hours a day, but usually less, like 6 hours.
 
