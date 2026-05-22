@@ -30,4 +30,28 @@ Someone who knows C++, Python, CMake, Rust and some related things.
 
 ## How my real life looks like
 
-I get up, cook, work remotely at my current job as a Rust developer, at lunch I warm up my food and watch some YouTube videos or read news. Work again. Dinner. Once in 4 days I go outside for groceries in the evening. Sitting at my laptop and doing random things. Taking shower once in 2 days. Sleep. Waking up, existential dread for 10-60 minutes, new day. At weekends instead of work I either do random things, or talk with random people on the Internet via Discord, IRC or whatever else I find. New week, same story, same room, same laptop.
+I get up, drink water and eat a banana or two. Then I cook or warm up some food. Usually it is some rice or pasta with some meat, rukola and a sliced tomato, every single time. After breakfast I eat take some vitamin pills like vitamin D or magnesium.
+
+If it is a weekday, I work remotely at my current job as a Rust developer until lunch.
+
+At lunch I listen to New York Times The Daily podcast or something from BBC.
+
+Then work again so that I work at most 8 hours a day, but usually less, like 6 hours.
+
+My dinner is almost always before 6 pm because If I eat later, my sleep schedule will be broken. 
+
+After it, I learn some English or code something mine, or I go for groceries. 
+
+Somewhen around 7 or 8 pm I go to gym, 6 days a week. I usually take shower either there or at home everyday.
+
+Then I try to sleep. 
+
+I wake up.
+
+Existential dread for 5-60 minutes.
+
+Another day.
+
+At weekends instead of work I either learn English extensively, do random coding of something, clean my room, or talk with random people on the Internet via Discord. 
+
+Another week, same story, same room, same laptop, same abstemious diet, same schedule.
