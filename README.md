@@ -30,7 +30,7 @@ Someone who knows C++, Python, CMake, Rust and some related things.
 
 ## How my real life looks like
 
-I get up, drink water and eat a banana or two. Then I cook or warm up some food. Usually it is some rice or pasta with some meat, rukola and a sliced tomato, every single time. After breakfast I eat take some vitamin pills like vitamin D or magnesium.
+I get up, drink water and eat a banana or two. Then I cook or warm up some food. Usually it is some rice or pasta with some meat, rukola and a sliced tomato, every single time. After breakfast I take some vitamin pills like vitamin D or magnesium.
 
 If it is a weekday, I work remotely at my current job as a Rust developer until lunch.
 
@@ -40,7 +40,7 @@ Then work again so that I work at most 8 hours a day, but usually less, like 6 h
 
 My dinner is almost always before 6 pm because If I eat later, my sleep schedule will be broken. 
 
-After it, I learn some English or code something mine, or I go for groceries. 
+After it, I learn some English or code something, or I go for groceries. 
 
 Somewhen around 7 or 8 pm I go to gym, 6 days a week. I usually take shower either there or at home everyday.
 
