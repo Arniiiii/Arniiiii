@@ -9,7 +9,7 @@ Someone who knows C++, Python, CMake, Rust and some related things.
    - [`pedal`](https://github.com/Arniiiii/pedal). Using pedals from a steering wheel gaming set for sending keyboard key presses on Linux.
 1. Writing recipes aka *ebuilds* for Portage, Gentoo Linux's package manager.
    - [`::ex_repo`](https://github.com/Arniiiii/ex_repo). My recipes.
-   - Contributions to [`::gentoo`](https://github.com/gentoo/gentoo), [`::stephanpalaru`](https://github.com/stefantalpalaru/gentoo-overlay), [`::mrpenguin`](https://github.com/MrPenguin07/ebuilds)
+   - Contributions to [`::gentoo`](https://github.com/gentoo/gentoo), [`::stefantalpalaru`](https://github.com/stefantalpalaru/gentoo-overlay), [`::mrpenguin`](https://github.com/MrPenguin07/ebuilds)
 1. Making some CMake-based projects easy to add, find, use and install correctly. Sometimes fix CI.
    - A lot of projects, any C++/CMake forked project in my repos is that. However, I deleted some of my forks...
    - Some of them are related to CPM, a ~~package manager~~ tool for bundling dependencies in CMake. I used to believe that using it gives a lot of customization options for including other CMake projects. While it is true that it gives full control, it's futile. I became disappointed: it simply does not work for any projects with 3+ dependencies on multiple OSes. Nowadays, I try using [`conan`](https://conan.io/) package manager or Gentoo's package manager.
