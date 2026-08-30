@@ -25,4 +25,4 @@ Someone who knows C++, Python, CMake, Rust and some related things.
 1. Some old projects for internships or courses.
     - [`Genesis`](https://github.com/Arniiiii/Genesis_ac_python_2022_08-2022_10). A project that receives ticker price from crypto exchanges i.e. Binance and sends it to an email via Google's API for Gmail. Python OOP, async, FastAPI. It was a course for OOP lol.
     - [CHI software](https://github.com/Arniiiii/CHI-academy_cpp). Some simple labs in C++. It was a course for C++ that became internship.
-    - For my current company, Distributed Labs, which is recently acquired by Blockstream, I don't have a project, since basically my task was to learn Rust. I learned it in two weeks.
+    - For a company I currently work for, "Distributed Labs", which is recently acquired by Blockstream, I don't have a project, since basically my task was to learn Rust. I learned it in two weeks.
