@@ -5,6 +5,7 @@ Someone who knows C++, Python, CMake, Rust and some related things.
 ## My public GitHub activity
 
 1. My projects.
+   - [`gyou`](https://github.com/Arniiiii/gyou). WIP. An attempt to make automatic CI for my ebuilds repo [`::ex_repo`](https://github.com/Arniiiii/ex_repo). 
    - [`ytto`](https://github.com/Arniiiii/ytto). Make YouTube text-first.
    - [`pedal`](https://github.com/Arniiiii/pedal). Using pedals from a steering wheel gaming set for sending keyboard key presses on Linux.
 1. Writing recipes aka *ebuilds* for Portage, Gentoo Linux's package manager.
